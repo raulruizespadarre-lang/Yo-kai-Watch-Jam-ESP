@@ -1,6 +1,5 @@
 # Yo-kai-Watch-Jam-ESP
-Traducción YO-KAI WATCH JAM en Español, directamente del servidor La Torre Excelencia. (Usando el mod inglés de Light como base) 
-
+Traducción YO-KAI WATCH JAM en Español, directamente del servidor La Torre Excelencia.
 <img width="1124" height="544" alt="image" src="https://github.com/user-attachments/assets/9914e98d-bd05-49b7-9de6-7efa14053f1d" />
 
 # La Torre Excelencia
